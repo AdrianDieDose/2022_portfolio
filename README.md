@@ -1,2 +1,2 @@
 # 2022_portfolio
-This Portfolio will show my Hobbys and some API CALLS
+This Portfolio will showcase some of my Projects and provide contact info.
