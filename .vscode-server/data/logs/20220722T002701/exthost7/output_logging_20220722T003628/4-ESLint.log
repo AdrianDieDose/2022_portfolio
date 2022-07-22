@@ -1,0 +1,12 @@
+[Info  - 12:36:30 AM] ESLint server is starting
+[Info  - 12:36:31 AM] ESLint server running in node v16.13.2
+[Info  - 12:36:31 AM] ESLint server is running.
+[Info  - 12:36:31 AM] 
+Failed to load the ESLint library for the document /home/diedose/coding/2022_portfolio/vite.config.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder 2022_portfolio
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder 2022_portfolio by executing the 'Disable ESLint' command.
+[Info  - 12:36:59 AM] ESLint server stopped.

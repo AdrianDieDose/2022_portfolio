@@ -1,0 +1,27 @@
+[2022-07-22 00:47:41.544] [remoteagent] [info] Extension host agent started.
+[2022-07-22 00:47:41.662] [remoteagent] [info] [127.0.0.1][1660e05f][ManagementConnection] New connection established.
+[2022-07-22 00:47:41.782] [remoteagent] [info] [127.0.0.1][29c6a2b3][ExtensionHostConnection] New connection established.
+[2022-07-22 00:47:41.817] [remoteagent] [info] [127.0.0.1][29c6a2b3][ExtensionHostConnection] <26702> Launched Extension Host Process.
+[2022-07-22 00:47:41.939] [remoteagent] [info] Deleted from disk dbaeumer.vscode-eslint /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.2
+[2022-07-22 00:50:04.948] [remoteagent] [info] [127.0.0.1][1660e05f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:50:04.956] [remoteagent] [info] [127.0.0.1][29c6a2b3][ExtensionHostConnection] <26702> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:50:07.988] [remoteagent] [info] [127.0.0.1][37450999][ManagementConnection] New connection established.
+[2022-07-22 00:50:08.162] [remoteagent] [info] [127.0.0.1][770482b9][ExtensionHostConnection] New connection established.
+[2022-07-22 00:50:08.168] [remoteagent] [info] [127.0.0.1][770482b9][ExtensionHostConnection] <27037> Launched Extension Host Process.
+[2022-07-22 00:52:03.251] [remoteagent] [info] [127.0.0.1][770482b9][ExtensionHostConnection] <27037> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:52:03.260] [remoteagent] [info] [127.0.0.1][37450999][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:52:06.175] [remoteagent] [info] [127.0.0.1][cb398ae8][ManagementConnection] New connection established.
+[2022-07-22 00:52:06.826] [remoteagent] [info] [127.0.0.1][31a81bb2][ExtensionHostConnection] New connection established.
+[2022-07-22 00:52:06.831] [remoteagent] [info] [127.0.0.1][31a81bb2][ExtensionHostConnection] <27697> Launched Extension Host Process.
+[2022-07-22 00:53:20.516] [remoteagent] [info] [127.0.0.1][31a81bb2][ExtensionHostConnection] <27697> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:53:20.519] [remoteagent] [info] [127.0.0.1][cb398ae8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:53:23.492] [remoteagent] [info] [127.0.0.1][32aca269][ManagementConnection] New connection established.
+[2022-07-22 00:53:23.927] [remoteagent] [info] [127.0.0.1][27d67c34][ExtensionHostConnection] New connection established.
+[2022-07-22 00:53:23.932] [remoteagent] [info] [127.0.0.1][27d67c34][ExtensionHostConnection] <28096> Launched Extension Host Process.
+[2022-07-22 01:07:39.588] [remoteagent] [info] [127.0.0.1][27d67c34][ExtensionHostConnection] <28096> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 01:07:39.599] [remoteagent] [info] [127.0.0.1][32aca269][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 01:07:43.011] [remoteagent] [info] [127.0.0.1][5bcde9d6][ManagementConnection] New connection established.
+[2022-07-22 01:07:43.392] [remoteagent] [info] [127.0.0.1][99c30242][ExtensionHostConnection] New connection established.
+[2022-07-22 01:07:43.397] [remoteagent] [info] [127.0.0.1][99c30242][ExtensionHostConnection] <28788> Launched Extension Host Process.
+[2022-07-22 01:36:04.689] [remoteagent] [info] [127.0.0.1][5bcde9d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 01:36:04.696] [remoteagent] [info] [127.0.0.1][99c30242][ExtensionHostConnection] <28788> Extension Host Process exited with code: 0, signal: null.

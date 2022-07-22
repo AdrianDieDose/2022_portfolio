@@ -1,0 +1,27 @@
+[2022-07-22 03:53:10.963] [exthost] [info] Extension host with pid 4151 started
+[2022-07-22 03:53:10.980] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Lock acquired.
+[2022-07-22 03:53:11.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-22 03:53:11.130] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-22 03:53:11.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-22 03:53:11.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-22 03:53:11.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-22 03:53:11.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-22 03:53:11.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-22 03:53:11.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-22 03:53:11.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 03:53:11.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 03:53:11.836] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 03:53:11.901] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 03:53:11.997] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 03:53:12.196] [exthost] [info] Eager extensions activated
+[2022-07-22 03:53:12.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 03:53:12.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 03:55:47.184] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 03:55:47.204] [exthost] [info] ExtensionService#_doActivateExtension syler.sass-indented, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 03:57:13.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-07-22 03:57:13.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-07-22 03:57:13.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-07-22 04:10:57.024] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-22 04:10:58.846] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-22 04:10:58.846] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-22 04:10:58.890] [exthost] [info] Extension host with pid 4151 exiting with code 0

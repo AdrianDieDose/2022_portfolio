@@ -1,0 +1,37 @@
+[2022-07-22 00:33:20.679] [exthost] [info] Extension host with pid 23586 started
+[2022-07-22 00:33:20.694] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Lock acquired.
+[2022-07-22 00:33:20.739] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:33:20.755] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:33:20.882] [exthost] [info] ExtensionService#_doActivateExtension syler.sass-indented, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:33:20.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-22 00:33:20.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-22 00:33:20.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-22 00:33:20.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-22 00:33:21.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-22 00:33:21.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-22 00:33:21.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:33:21.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:33:21.580] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:33:21.608] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:33:21.676] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:33:21.814] [exthost] [info] Eager extensions activated
+[2022-07-22 00:33:21.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:33:21.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:33:21.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:33:58.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-22 00:35:50.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-22 00:35:55.276] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-22 00:35:55.276] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-22 00:35:55.304] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2022-07-22 00:35:55.304] [exthost] [error] Error: Starting server failed
+    at b.$start (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461476)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at b.sendRequest (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:446807)
+    at Te.provideLinks (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:87:60541)
+[2022-07-22 00:35:55.304] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2022-07-22 00:35:55.304] [exthost] [error] Error: Starting server failed
+    at b.$start (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461476)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at b.sendRequest (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:446807)
+    at Pe.provideFoldingRanges (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:87:62074)
+[2022-07-22 00:35:55.320] [exthost] [info] Extension host with pid 23586 exiting with code 0

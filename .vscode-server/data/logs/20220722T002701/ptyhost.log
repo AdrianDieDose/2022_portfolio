@@ -1,0 +1,11 @@
+[2022-07-22 00:28:06.839] [ptyhost] [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+[2022-07-22 00:28:06.852] [ptyhost] [info] Persistent process "1": Replaying 387 chars and 1 size events
+[2022-07-22 00:29:52.647] [ptyhost] [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+[2022-07-22 00:29:52.660] [ptyhost] [info] Persistent process "3": Replaying 2173 chars and 1 size events
+[2022-07-22 00:30:18.200] [ptyhost] [info] Persistent process "3": Replaying 2244 chars and 1 size events
+[2022-07-22 00:33:00.398] [ptyhost] [info] Persistent process "2": The short reconnection grace time of 5m has expired, shutting down pid 21783
+[2022-07-22 00:33:25.658] [ptyhost] [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+[2022-07-22 00:33:25.675] [ptyhost] [info] Persistent process "4": Replaying 3813 chars and 1 size events
+[2022-07-22 00:35:57.698] [ptyhost] [info] Persistent process "4": Replaying 4370 chars and 1 size events
+[2022-07-22 00:36:29.539] [ptyhost] [info] Persistent process "4": Replaying 4370 chars and 1 size events
+[2022-07-22 00:37:05.380] [ptyhost] [info] Persistent process "4": Replaying 4370 chars and 1 size events

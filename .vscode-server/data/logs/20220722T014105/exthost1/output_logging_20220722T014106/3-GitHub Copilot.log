@@ -1,0 +1,44 @@
+[INFO] [ghostText] [2022-07-22T01:31:34.986Z] Cancelled after requestMultiline
+[INFO] [ghostText] [2022-07-22T01:31:35.136Z] Cancelled during debounce
+[INFO] [ghostText] [2022-07-22T01:31:37.422Z] Cancelled during debounce
+[INFO] [default] [2022-07-22T01:31:37.511Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:38.497Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:38.672Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2022-07-22T01:31:39.066Z] Cancelled during debounce
+[INFO] [default] [2022-07-22T01:31:39.151Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:39.456Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:39.740Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:40.014Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2022-07-22T01:31:40.241Z] Cancelled during debounce
+[INFO] [default] [2022-07-22T01:31:40.350Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:40.522Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:40.773Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 250 ms
+[INFO] [streamChoices] [2022-07-22T01:31:40.775Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5Wbnv7XfGX3hG36MIfA36HhtueCQ8}] created: [{1658453499}]
+[INFO] [ghostText] [2022-07-22T01:31:41.027Z] Found inline suggestions locally
+[INFO] [ghostText] [2022-07-22T01:31:41.208Z] Found inline suggestions locally
+[INFO] [ghostText] [2022-07-22T01:31:41.412Z] Found inline suggestions locally
+[INFO] [ghostText] [2022-07-22T01:31:41.752Z] Found inline suggestions locally
+[INFO] [ghostText] [2022-07-22T01:31:41.753Z] Filtered out solution matching next line
+[INFO] [default] [2022-07-22T01:31:50.684Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:50.960Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:51.175Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 214 ms
+[INFO] [streamChoices] [2022-07-22T01:31:51.176Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5Wbo6mUapvLU2QXEHCSrxmSW95R6g}] created: [{1658453510}]
+[INFO] [ghostText] [2022-07-22T01:31:51.896Z] Found inline suggestions locally
+[INFO] [default] [2022-07-22T01:31:55.884Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:31:56.061Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 177 ms
+[INFO] [streamChoices] [2022-07-22T01:31:56.062Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5WboBNBCFyTLAfXCjSFZK3QFzF6c3}] created: [{1658453515}]
+[INFO] [ghostText] [2022-07-22T01:31:57.340Z] Found inline suggestions locally
+[INFO] [default] [2022-07-22T01:32:25.803Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:32:26.082Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 278 ms
+[INFO] [streamChoices] [2022-07-22T01:32:26.084Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5WbofsUZXpMwZ5L1ZRSOsrVedxj5T}] created: [{1658453545}]
+[INFO] [ghostText] [2022-07-22T01:32:26.663Z] Found inline suggestions locally
+[INFO] [ghostText] [2022-07-22T01:32:26.663Z] Filtered out solution matching next line
+[INFO] [default] [2022-07-22T01:32:32.391Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:32:32.604Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 212 ms
+[INFO] [streamChoices] [2022-07-22T01:32:32.605Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5WboldlWo3fEE4G8uan4FVVnCk0P9}] created: [{1658453551}]
+[INFO] [ghostText] [2022-07-22T01:32:33.563Z] Found inline suggestions locally
+[INFO] [default] [2022-07-22T01:40:04.621Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:40:33.891Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-22T01:40:34.166Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 274 ms
+[INFO] [streamChoices] [2022-07-22T01:40:34.167Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5WbwXHx9KII3f48RiNpJtMI6ojlvw}] created: [{1658454033}]
+[INFO] [ghostText] [2022-07-22T01:40:34.855Z] Found inline suggestions locally

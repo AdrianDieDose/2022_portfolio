@@ -1,0 +1,51 @@
+[Info  - 3:52:09 AM] ESLint server is starting
+[Info  - 3:52:09 AM] ESLint server running in node v16.13.2
+[Info  - 3:52:09 AM] ESLint server is running.
+[Info  - 3:52:09 AM] ESLint library loaded from: /home/diedose/coding/2022_portfolio/node_modules/eslint/lib/api.js
+[Info  - 3:52:46 AM] ESLint library loaded from: /home/diedose/2022_portfolio/node_modules/eslint/lib/api.js
+[Error - 3:52:58 AM] ESLint stack trace:
+[Error - 3:52:58 AM] Error: Failed to load config "standard" to extend from.
+Referenced from: /home/diedose/coding/2022_portfolio/.eslintrc.js
+    at configInvalidError (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2624:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3242:23)
+    at ConfigArrayFactory._loadExtends (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3119:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3058:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3003:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2849:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3833:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3754:18)
+[Error - 3:52:59 AM] ESLint stack trace:
+[Error - 3:52:59 AM] Error: Failed to load config "standard" to extend from.
+Referenced from: /home/diedose/coding/2022_portfolio/.eslintrc.js
+    at configInvalidError (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2624:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3242:23)
+    at ConfigArrayFactory._loadExtends (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3119:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3058:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3003:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2849:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3833:46)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3852:20)
+[Error - 3:52:59 AM] ESLint stack trace:
+[Error - 3:52:59 AM] Error: Failed to load config "standard" to extend from.
+Referenced from: /home/diedose/coding/2022_portfolio/.eslintrc.js
+    at configInvalidError (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2624:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3242:23)
+    at ConfigArrayFactory._loadExtends (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3119:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3058:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3003:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2849:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3833:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3754:18)
+[Info  - 3:53:07 AM] ESLint server stopped.
+Uncaught exception received.
+Error: Request window/showMessageRequest failed with message: Canceled
+    at /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:53686
+    at /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:53980
+    at Immediate.<anonymous> (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:54342)
+    at processImmediate (node:internal/timers:464:21)

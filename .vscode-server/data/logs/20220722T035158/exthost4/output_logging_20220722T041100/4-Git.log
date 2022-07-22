@@ -1,0 +1,21 @@
+[2022-07-22T02:11:01.499Z] Log level: Info
+[2022-07-22T02:11:01.504Z] [info] Validating found git in: git
+[2022-07-22T02:11:01.532Z] [info] Using git 2.25.1 from git
+[2022-07-22T02:11:01.916Z] > git rev-parse --show-toplevel [372ms]
+[2022-07-22T02:11:02.033Z] > git rev-parse --git-dir --git-common-dir [101ms]
+[2022-07-22T02:11:02.042Z] [info] Open repository: /home/diedose
+[2022-07-22T02:11:02.180Z] > git status -z -uall [130ms]
+[2022-07-22T02:11:02.180Z] > git symbolic-ref --short HEAD [31ms]
+[2022-07-22T02:11:02.199Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+[2022-07-22T02:11:02.217Z] > git remote --verbose [2ms]
+[2022-07-22T02:11:02.218Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-07-22T02:11:04.191Z] > git config --get commit.template [1821ms]
+[2022-07-22T02:11:04.232Z] > git check-ignore -v -z --stdin [16ms]
+[2022-07-22T02:11:04.363Z] > git status -z -uall [159ms]
+[2022-07-22T02:11:04.363Z] > git show --textconv :coding/2022_portfolio/src/main.js [26ms]
+[2022-07-22T02:11:04.363Z] > git ls-files --stage -- /home/diedose/coding/2022_portfolio/src/main.js [17ms]
+[2022-07-22T02:11:04.365Z] > git symbolic-ref --short HEAD [43ms]
+[2022-07-22T02:11:04.374Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+[2022-07-22T02:11:04.392Z] > git remote --verbose [2ms]
+[2022-07-22T02:11:04.392Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-07-22T02:11:07.268Z] > git config --get commit.template [2745ms]

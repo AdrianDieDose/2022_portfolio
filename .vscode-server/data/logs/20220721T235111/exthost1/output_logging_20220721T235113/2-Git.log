@@ -1,0 +1,21 @@
+[2022-07-21T21:51:13.410Z] Log level: Info
+[2022-07-21T21:51:13.414Z] [info] Validating found git in: git
+[2022-07-21T21:51:13.449Z] [info] Using git 2.25.1 from git
+[2022-07-21T21:51:13.464Z] > git rev-parse --show-toplevel [4ms]
+[2022-07-21T21:51:13.471Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-07-21T21:51:13.480Z] [info] Open repository: /home/diedose/coding/2022_portfolio
+[2022-07-21T21:51:13.488Z] > git status -z -uall [3ms]
+[2022-07-21T21:51:13.502Z] > git symbolic-ref --short HEAD [10ms]
+[2022-07-21T21:51:13.539Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [34ms]
+[2022-07-21T21:51:13.563Z] > git remote --verbose [17ms]
+[2022-07-21T21:51:13.563Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+[2022-07-21T21:51:13.616Z] > git config --get commit.template [40ms]
+[2022-07-21T21:51:13.626Z] > git status -z -uall [2ms]
+[2022-07-21T21:51:13.634Z] > git symbolic-ref --short HEAD [3ms]
+[2022-07-21T21:51:13.640Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-07-21T21:51:13.656Z] > git remote --verbose [8ms]
+[2022-07-21T21:51:13.657Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-07-21T21:51:13.665Z] > git config --get commit.template [1ms]
+[2022-07-21T21:51:13.973Z] > git show --textconv :src/router/index.js [5ms]
+[2022-07-21T21:51:13.974Z] > git ls-files --stage -- /home/diedose/coding/2022_portfolio/src/router/index.js [2ms]
+[2022-07-21T21:51:14.017Z] > git check-ignore -v -z --stdin [2ms]

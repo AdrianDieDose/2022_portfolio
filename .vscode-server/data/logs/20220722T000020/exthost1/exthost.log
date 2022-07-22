@@ -1,0 +1,23 @@
+[2022-07-22 00:00:21.501] [exthost] [info] Extension host with pid 17562 started
+[2022-07-22 00:00:21.519] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Lock acquired.
+[2022-07-22 00:00:21.547] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:00:21.563] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:00:21.691] [exthost] [info] ExtensionService#_doActivateExtension syler.sass-indented, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:00:21.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-22 00:00:21.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-22 00:00:21.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-22 00:00:21.762] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-22 00:00:22.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-22 00:00:22.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-22 00:00:22.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:00:22.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:00:22.293] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:00:22.330] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:00:22.417] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:00:22.544] [exthost] [info] Eager extensions activated
+[2022-07-22 00:00:22.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:00:22.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:00:22.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:01:48.242] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-22 00:01:48.242] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-22 00:01:48.265] [exthost] [info] Extension host with pid 17562 exiting with code 0

@@ -1,0 +1,3 @@
+[INFO] [default] [2022-07-21T22:49:02.341Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-21T22:49:02.906Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 564 ms
+[INFO] [streamChoices] [2022-07-21T22:49:02.908Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5WZGYVyYxsxuB1KcwwCK1ePGATak3}] created: [{1658443742}]

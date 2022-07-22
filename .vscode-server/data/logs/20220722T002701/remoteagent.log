@@ -1,0 +1,88 @@
+[2022-07-22 00:27:01.681] [remoteagent] [info] Extension host agent started.
+[2022-07-22 00:27:01.846] [remoteagent] [info] [127.0.0.1][78bac8ee][ManagementConnection] New connection established.
+[2022-07-22 00:27:01.956] [remoteagent] [info] [127.0.0.1][4805e4ad][ExtensionHostConnection] New connection established.
+[2022-07-22 00:27:01.966] [remoteagent] [info] [127.0.0.1][4805e4ad][ExtensionHostConnection] <21722> Launched Extension Host Process.
+[2022-07-22 00:27:50.994] [remoteagent] [info] Uninstalling extension: dbaeumer.vscode-eslint@2.2.2
+[2022-07-22 00:27:51.106] [remoteagent] [info] Detected extension removed from another source dbaeumer.vscode-eslint
+[2022-07-22 00:27:51.663] [remoteagent] [info] Successfully uninstalled extension: dbaeumer.vscode-eslint@2.2.2
+[2022-07-22 00:27:58.954] [remoteagent] [info] [127.0.0.1][78bac8ee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:27:58.980] [remoteagent] [info] [127.0.0.1][4805e4ad][ExtensionHostConnection] <21722> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:28:00.289] [remoteagent] [info] [127.0.0.1][7e0ade2f][ManagementConnection] New connection established.
+[2022-07-22 00:28:00.597] [remoteagent] [info] [127.0.0.1][0b0f58b4][ExtensionHostConnection] New connection established.
+[2022-07-22 00:28:00.603] [remoteagent] [info] [127.0.0.1][0b0f58b4][ExtensionHostConnection] <22052> Launched Extension Host Process.
+[2022-07-22 00:29:43.558] [remoteagent] [info] [127.0.0.1][7e0ade2f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:29:43.584] [remoteagent] [info] [127.0.0.1][0b0f58b4][ExtensionHostConnection] <22052> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:29:46.715] [remoteagent] [info] [127.0.0.1][520eb038][ManagementConnection] New connection established.
+[2022-07-22 00:29:47.105] [remoteagent] [info] [127.0.0.1][39c69973][ExtensionHostConnection] New connection established.
+[2022-07-22 00:29:47.108] [remoteagent] [info] [127.0.0.1][39c69973][ExtensionHostConnection] <22920> Launched Extension Host Process.
+[2022-07-22 00:30:12.145] [remoteagent] [info] Uninstalling extension: esbenp.prettier-vscode@9.5.0
+[2022-07-22 00:30:12.386] [remoteagent] [info] Successfully uninstalled extension: esbenp.prettier-vscode@9.5.0
+[2022-07-22 00:30:14.326] [remoteagent] [info] [127.0.0.1][520eb038][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:30:14.345] [remoteagent] [info] [127.0.0.1][39c69973][ExtensionHostConnection] <22920> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:30:15.687] [remoteagent] [info] [127.0.0.1][a230e80b][ManagementConnection] New connection established.
+[2022-07-22 00:30:15.996] [remoteagent] [info] [127.0.0.1][b7bd599a][ExtensionHostConnection] New connection established.
+[2022-07-22 00:30:16.001] [remoteagent] [info] [127.0.0.1][b7bd599a][ExtensionHostConnection] <23233> Launched Extension Host Process.
+[2022-07-22 00:32:53.508] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-07-22 00:32:53.597] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-07-22 00:32:53.710] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/diedose/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-07-22 00:32:53.733] [remoteagent] [info] Removed the extension from uninstalled list: esbenp.prettier-vscode
+[2022-07-22 00:32:53.742] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-07-22 00:32:57.255] [remoteagent] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-07-22 00:32:57.321] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-07-22 00:32:57.440] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint /home/diedose/.vscode-server/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6
+[2022-07-22 00:32:57.480] [remoteagent] [info] Extracted extension to /home/diedose/.vscode-server/extensions/.1fa04450-1c3d-4051-b5bf-ed62b78b9167: dbaeumer.vscode-eslint
+[2022-07-22 00:32:57.488] [remoteagent] [info] Renamed to /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6
+[2022-07-22 00:32:57.489] [remoteagent] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-07-22 00:32:57.490] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-07-22 00:33:16.934] [remoteagent] [info] [127.0.0.1][a230e80b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:33:16.955] [remoteagent] [info] [127.0.0.1][b7bd599a][ExtensionHostConnection] <23233> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:33:19.947] [remoteagent] [info] [127.0.0.1][412ff04b][ManagementConnection] New connection established.
+[2022-07-22 00:33:20.273] [remoteagent] [info] [127.0.0.1][4c4d8581][ExtensionHostConnection] New connection established.
+[2022-07-22 00:33:20.277] [remoteagent] [info] [127.0.0.1][4c4d8581][ExtensionHostConnection] <23586> Launched Extension Host Process.
+[2022-07-22 00:35:32.720] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:35:32.720] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-07-22 00:35:40.681] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2022-07-22 00:35:55.258] [remoteagent] [info] [127.0.0.1][412ff04b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:35:55.331] [remoteagent] [info] [127.0.0.1][4c4d8581][ExtensionHostConnection] <23586> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:35:56.701] [remoteagent] [info] [127.0.0.1][81e05391][ManagementConnection] New connection established.
+[2022-07-22 00:35:57.223] [remoteagent] [info] [127.0.0.1][0279e0a2][ExtensionHostConnection] New connection established.
+[2022-07-22 00:35:57.227] [remoteagent] [info] [127.0.0.1][0279e0a2][ExtensionHostConnection] <24202> Launched Extension Host Process.
+[2022-07-22 00:36:26.496] [remoteagent] [info] [127.0.0.1][81e05391][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:36:26.605] [remoteagent] [info] [127.0.0.1][0279e0a2][ExtensionHostConnection] <24202> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:36:28.074] [remoteagent] [info] [127.0.0.1][02b661bc][ManagementConnection] New connection established.
+[2022-07-22 00:36:28.676] [remoteagent] [info] [127.0.0.1][d2296431][ExtensionHostConnection] New connection established.
+[2022-07-22 00:36:28.683] [remoteagent] [info] [127.0.0.1][d2296431][ExtensionHostConnection] <24257> Launched Extension Host Process.
+[2022-07-22 00:36:47.669] [remoteagent] [info] Uninstalling extension: dbaeumer.vscode-eslint@2.2.6
+[2022-07-22 00:36:47.968] [remoteagent] [info] Successfully uninstalled extension: dbaeumer.vscode-eslint@2.2.6
+[2022-07-22 00:36:53.706] [remoteagent] [info] Uninstalling extension: rvest.vs-code-prettier-eslint@5.0.3
+[2022-07-22 00:36:54.315] [remoteagent] [info] Successfully uninstalled extension: rvest.vs-code-prettier-eslint@5.0.3
+[2022-07-22 00:36:59.769] [remoteagent] [info] [127.0.0.1][02b661bc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:36:59.795] [remoteagent] [info] [127.0.0.1][d2296431][ExtensionHostConnection] <24257> Extension Host Process exited with code: 0, signal: null.
+[2022-07-22 00:37:01.537] [remoteagent] [info] [127.0.0.1][aea0e328][ManagementConnection] New connection established.
+[2022-07-22 00:37:01.716] [remoteagent] [info] [127.0.0.1][e4b350eb][ExtensionHostConnection] New connection established.
+[2022-07-22 00:37:01.727] [remoteagent] [info] [127.0.0.1][e4b350eb][ExtensionHostConnection] <24457> Launched Extension Host Process.
+[2022-07-22 00:41:00.582] [remoteagent] [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.294] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.294] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-07-22 00:41:10.380] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.380] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-22 00:41:10.439] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.440] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-22 00:41:10.500] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.500] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-22 00:41:10.560] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.560] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-22 00:41:10.620] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/diedose/coding/2022_portfolio)
+[2022-07-22 00:41:10.620] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-07-22 00:45:59.893] [remoteagent] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-07-22 00:46:00.014] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-07-22 00:46:00.165] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint /home/diedose/.vscode-server/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6
+[2022-07-22 00:46:00.191] [remoteagent] [info] Removed the extension from uninstalled list: dbaeumer.vscode-eslint
+[2022-07-22 00:46:00.197] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-07-22 00:46:40.781] [remoteagent] [info] Getting Manifest... rvest.vs-code-prettier-eslint
+[2022-07-22 00:46:40.912] [remoteagent] [info] Installing extension: rvest.vs-code-prettier-eslint
+[2022-07-22 00:46:41.024] [remoteagent] [info] Downloaded extension: rvest.vs-code-prettier-eslint /home/diedose/.vscode-server/data/CachedExtensionVSIXs/rvest.vs-code-prettier-eslint-5.0.3
+[2022-07-22 00:46:41.051] [remoteagent] [info] Removed the extension from uninstalled list: rvest.vs-code-prettier-eslint
+[2022-07-22 00:46:41.056] [remoteagent] [info] Extension installed successfully: rvest.vs-code-prettier-eslint
+[2022-07-22 00:47:34.266] [remoteagent] [info] [127.0.0.1][aea0e328][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-22 00:47:34.275] [remoteagent] [info] [127.0.0.1][e4b350eb][ExtensionHostConnection] <24457> Extension Host Process exited with code: 0, signal: null.

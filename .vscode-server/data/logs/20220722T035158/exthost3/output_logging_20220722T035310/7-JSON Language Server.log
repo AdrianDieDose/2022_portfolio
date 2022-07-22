@@ -1,0 +1,29 @@
+cancelled
+[Error - 4:10:58 AM] Sending notification textDocument/didSave failed.
+Error: Starting server failed
+    at b.$start (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461476)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at b.sendNotification (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:447761)
+    at t (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:520598)
+[Error - 4:10:58 AM] Sending notification textDocument/didClose failed.
+Error: Starting server failed
+    at b.$start (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461476)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at b.sendNotification (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:447761)
+    at t (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:520598)
+[Error - 4:10:58 AM] Sending document notification textDocument/didSave failed.
+Error: Starting server failed
+    at b.$start (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461476)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at b.sendNotification (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:447761)
+    at t (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:520598)
+[Error - 4:10:58 AM] Sending document notification textDocument/didClose failed.
+Error: Starting server failed
+    at b.$start (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461476)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at b.sendNotification (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:447761)
+    at t (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:520598)

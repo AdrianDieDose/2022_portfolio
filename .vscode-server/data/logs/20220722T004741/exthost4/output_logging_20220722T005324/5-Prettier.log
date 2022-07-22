@@ -1,0 +1,64 @@
+["INFO" - 12:53:25 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:53:25 AM] Extension Version: 9.5.0.
+["INFO" - 1:00:53 AM] Formatting file:///home/diedose/coding/2022_portfolio/src/App.vue
+["INFO" - 1:00:53 AM] Using ignore file (if present) at /home/diedose/coding/2022_portfolio/.prettierignore
+["INFO" - 1:00:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 1:00:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:00:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/diedose/coding/2022_portfolio/src/App.vue",
+  "parser": "vue"
+}
+["INFO" - 1:00:53 AM] Formatting completed in 0.041ms.
+["INFO" - 1:00:57 AM] Formatting file:///home/diedose/coding/2022_portfolio/src/App.vue
+["INFO" - 1:00:57 AM] Using ignore file (if present) at /home/diedose/coding/2022_portfolio/.prettierignore
+["INFO" - 1:00:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 1:00:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:00:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/diedose/coding/2022_portfolio/src/App.vue",
+  "parser": "vue"
+}
+["INFO" - 1:00:57 AM] Formatting completed in 0.025ms.

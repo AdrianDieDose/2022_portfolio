@@ -1,0 +1,6 @@
+[2022-07-22 00:06:50.621] [ptyhost] [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+[2022-07-22 00:06:50.637] [ptyhost] [info] Persistent process "1": Replaying 991 chars and 1 size events
+[2022-07-22 00:07:21.407] [ptyhost] [info] Persistent process "1": Replaying 1062 chars and 1 size events
+[2022-07-22 00:07:42.637] [ptyhost] [info] Persistent process "1": Replaying 1062 chars and 1 size events
+[2022-07-22 00:11:06.810] [ptyhost] [info] Persistent process "1": Replaying 1062 chars and 1 size events
+[2022-07-22 00:11:44.532] [ptyhost] [info] Persistent process "2": The short reconnection grace time of 5m has expired, shutting down pid 18514

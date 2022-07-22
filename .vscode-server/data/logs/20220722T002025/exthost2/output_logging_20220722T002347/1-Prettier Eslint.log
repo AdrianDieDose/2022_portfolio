@@ -1,0 +1,46 @@
+Error: Failed to load plugin 'vue' declared in 'CLIOptions': The argument 'filename' must be a file URL object, file URL string, or absolute path string. Received '' 
+TypeError: Failed to load plugin 'vue' declared in 'CLIOptions': The argument 'filename' must be a file URL object, file URL string, or absolute path string. Received ''
+    at new NodeError (node:internal/errors:371:5)
+    at createRequire (node:internal/modules/cjs/loader:1214:13)
+    at Object.resolve (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:23:16)
+    at Object.ModuleResolver.resolve (/home/diedose/coding/2022_portfolio/node_modules/@rushstack/eslint-patch/src/modern-module-resolution.ts:227:34)
+    at ConfigArrayFactory._loadPlugin (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1051:33)
+    at ConfigArrayFactory._loadPlugin (/home/diedose/coding/2022_portfolio/node_modules/@rushstack/eslint-patch/src/modern-module-resolution.ts:229:35)
+    at /home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:942:33
+    at Array.reduce (<anonymous>)
+    at ConfigArrayFactory._loadPlugins (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:938:22)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:738:44)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:678:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.create (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:473:16)
+    at createCLIConfigArray (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:168:47)
+    at CascadingConfigArrayFactory.clearCache (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:340:32)
+    at new ESLint (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/eslint/eslint.js:448:32)
+    at Pge (/home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:180:69)
+    at /home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:188:700
+    at Lge (/home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:180:1439)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Failed to load plugin 'vue' declared in 'CLIOptions': The argument 'filename' must be a file URL object, file URL string, or absolute path string. Received '' 
+TypeError: Failed to load plugin 'vue' declared in 'CLIOptions': The argument 'filename' must be a file URL object, file URL string, or absolute path string. Received ''
+    at new NodeError (node:internal/errors:371:5)
+    at createRequire (node:internal/modules/cjs/loader:1214:13)
+    at Object.resolve (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:23:16)
+    at Object.ModuleResolver.resolve (/home/diedose/coding/2022_portfolio/node_modules/@rushstack/eslint-patch/src/modern-module-resolution.ts:227:34)
+    at ConfigArrayFactory._loadPlugin (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1051:33)
+    at ConfigArrayFactory._loadPlugin (/home/diedose/coding/2022_portfolio/node_modules/@rushstack/eslint-patch/src/modern-module-resolution.ts:229:35)
+    at /home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:942:33
+    at Array.reduce (<anonymous>)
+    at ConfigArrayFactory._loadPlugins (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:938:22)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:738:44)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:678:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.create (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/config-array-factory.js:473:16)
+    at createCLIConfigArray (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:168:47)
+    at CascadingConfigArrayFactory.clearCache (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:340:32)
+    at new ESLint (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/eslint/eslint.js:448:32)
+    at Pge (/home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:180:69)
+    at /home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:188:700
+    at Lge (/home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:180:1439)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

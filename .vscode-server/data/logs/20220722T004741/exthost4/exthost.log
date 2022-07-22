@@ -1,0 +1,72 @@
+[2022-07-22 00:53:24.221] [exthost] [info] Extension host with pid 28096 started
+[2022-07-22 00:53:24.240] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Lock acquired.
+[2022-07-22 00:53:24.354] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:53:24.380] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:53:24.504] [exthost] [info] ExtensionService#_doActivateExtension syler.sass-indented, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-22 00:53:24.526] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-22 00:53:24.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-22 00:53:24.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-22 00:53:24.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-22 00:53:24.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-22 00:53:24.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-22 00:53:25.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:53:25.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:53:25.107] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:53:25.142] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:53:25.209] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-22 00:53:25.360] [exthost] [info] Eager extensions activated
+[2022-07-22 00:53:25.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:53:25.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:53:25.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-22 00:56:36.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-22 01:00:04.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-07-22 01:00:05.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-07-22 01:06:02.677] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-07-22 01:06:02.677] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.v (/home/diedose/.vscode-server/extensions/github.copilot-1.34.6280/dist/extension.js:2:22051)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/diedose/.vscode-server/extensions/github.copilot-1.34.6280/dist/extension.js:2:15034)
+    at i.fire (/home/diedose/.vscode-server/extensions/github.copilot-1.34.6280/dist/extension.js:2:15075)
+    at c.abort (/home/diedose/.vscode-server/extensions/github.copilot-1.34.6280/dist/extension.js:2:15784)
+    at /home/diedose/.vscode-server/extensions/github.copilot-1.34.6280/dist/extension.js:8:414422
+    at b.invoke (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at A.cancel (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:6678)
+    at D.cancel (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:7219)
+    at Object.B (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:12137)
+    at s._receiveCancel (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:12782)
+    at s._receiveOneMessage (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:11195)
+    at /home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at b.invoke (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at b.invoke (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at b.invoke (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at b.invoke (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at f._processReadQueue (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:21271)
+    at f.acceptFrame (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:20927)
+    at v._acceptChunk (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:18891)
+    at /home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:15880
+    at Socket.R (/home/diedose/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-22 01:07:39.543] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-22 01:07:39.544] [exthost] [info] Lock '/home/diedose/.vscode-server/data/User/workspaceStorage/3f7958e37615cccbd9ae125eab2c5d10/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-22 01:07:39.574] [exthost] [info] Extension host with pid 28096 exiting with code 0

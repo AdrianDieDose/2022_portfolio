@@ -1,0 +1,40 @@
+[Info  - 12:47:49 AM] ESLint server is starting
+[Info  - 12:47:49 AM] ESLint server running in node v16.13.2
+[Info  - 12:47:49 AM] ESLint server is running.
+[Info  - 12:47:49 AM] ESLint library loaded from: /home/diedose/coding/2022_portfolio/node_modules/eslint/lib/api.js
+Uncaught exception received.
+Error: No ESLint configuration found in /home/diedose/coding/2022_portfolio.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Uncaught exception received.
+Error: No ESLint configuration found in /home/diedose/coding/2022_portfolio.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[Warn  - 12:48:00 AM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/diedose/coding/2022_portfolio/src/App.vue
+File will not be validated. Consider running 'eslint --init' in the workspace folder 2022_portfolio
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+Uncaught exception received.
+Error: No ESLint configuration found in /home/diedose/coding/2022_portfolio.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/diedose/coding/2022_portfolio/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/home/diedose/coding/2022_portfolio/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+[Info  - 12:50:04 AM] ESLint server stopped.

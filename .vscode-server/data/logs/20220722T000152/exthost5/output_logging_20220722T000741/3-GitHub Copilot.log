@@ -1,0 +1,5 @@
+[INFO] [ghostText] [2022-07-21T22:09:58.070Z] Cancelled after extractPrompt
+[INFO] [default] [2022-07-21T22:09:58.205Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-21T22:09:58.357Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-07-21T22:09:58.970Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 613 ms
+[INFO] [streamChoices] [2022-07-21T22:09:58.973Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5WYekUCRvimNK4sKSxdTWl8hCxR2i}] created: [{1658441398}]
