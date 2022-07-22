@@ -1,5 +1,0 @@
-[Info  - 12:07:21 AM] ESLint server is starting
-[Info  - 12:07:21 AM] ESLint server running in node v16.13.2
-[Info  - 12:07:21 AM] ESLint server is running.
-[Error - 12:07:21 AM] The eslint library loaded from /home/diedose/coding/2022_portfolio/node_modules/eslint/lib/api.js doesn't export a CLIEngine. You need at least eslint@1.0.0
-[Info  - 12:07:38 AM] ESLint server stopped.

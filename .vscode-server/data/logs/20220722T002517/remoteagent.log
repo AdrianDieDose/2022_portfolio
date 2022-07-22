@@ -1,7 +1,0 @@
-[2022-07-22 00:25:17.962] [remoteagent] [info] Extension host agent started.
-[2022-07-22 00:25:18.143] [remoteagent] [info] [127.0.0.1][b45af2ec][ManagementConnection] New connection established.
-[2022-07-22 00:25:18.165] [remoteagent] [info] Deleted from disk dbaeumer.vscode-eslint /home/diedose/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6
-[2022-07-22 00:25:18.320] [remoteagent] [info] [127.0.0.1][41978e65][ExtensionHostConnection] New connection established.
-[2022-07-22 00:25:18.332] [remoteagent] [info] [127.0.0.1][41978e65][ExtensionHostConnection] <21120> Launched Extension Host Process.
-[2022-07-22 00:26:52.724] [remoteagent] [info] [127.0.0.1][b45af2ec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[2022-07-22 00:26:52.743] [remoteagent] [info] [127.0.0.1][41978e65][ExtensionHostConnection] <21120> Extension Host Process exited with code: 0, signal: null.

@@ -1,9 +1,0 @@
-Error: No parser could be inferred for file: /home/diedose/coding/2022_portfolio/2022_portfolio.code-workspace 
-Error: No parser could be inferred for file: /home/diedose/coding/2022_portfolio/2022_portfolio.code-workspace
-    at normalize (/home/diedose/coding/2022_portfolio/node_modules/prettier/index.js:7556:19)
-    at formatWithCursor2 (/home/diedose/coding/2022_portfolio/node_modules/prettier/index.js:8822:50)
-    at /home/diedose/coding/2022_portfolio/node_modules/prettier/index.js:37229:12
-    at Object.format (/home/diedose/coding/2022_portfolio/node_modules/prettier/index.js:37243:12)
-    at /home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:184:131
-    at Lge (/home/diedose/.vscode-server/extensions/rvest.vs-code-prettier-eslint-5.0.3/dist/extension.js:180:1160)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
