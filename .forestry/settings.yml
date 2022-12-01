@@ -7,8 +7,6 @@ sections:
 - type: document
   path: "./portfolio/works"
   label: test2
-  match: "**/*"
-  read_only: false
 - type: directory
   path: "./portfolio/works"
   label: Test

@@ -1,0 +1,9 @@
+---
+label: ttt
+hide_body: true
+fields:
+- name: gggg
+  type: text
+  config:
+    required: false
+  label: gggg
