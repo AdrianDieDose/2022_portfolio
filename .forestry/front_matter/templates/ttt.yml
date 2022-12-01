@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: gggg
+pages:
+- "./portfolio/works/test.md"
