@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: "./works"
-  label: Work
+  path: "./portfolio/works"
+  label: works
   create: documents
   match: "**/*"
 upload_dir: uploads
